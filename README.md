@@ -2,4 +2,4 @@
 fatality intro
 
 //use Adobe After Effects 2022
-//didn't use plugins
+didn't use plugins
